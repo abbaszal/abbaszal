@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🎓 MSc in Physics of Data | <br>🤖 AI & Machine Learning Focused  | <br>🧠  Passionate about Computational Science & Federated Learning Systems
+<br>🎓 MSc in Physics of Data | <br>🤖 AI/ML Engineer \& Full-Stack Developer | <br>🧠  Passionate about Computational Science & Federated Learning Systems
 
 
 ## 🌐 Socials:
